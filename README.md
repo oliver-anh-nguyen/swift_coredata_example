@@ -15,6 +15,6 @@ Make an example learn Core Data
 - Test Driven Development
 
 ## References
-[Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
-[Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)
+- [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
+- [Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)
 
